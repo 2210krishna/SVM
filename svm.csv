@@ -1,0 +1,121 @@
+text,category,author,source_type,sentiment,text_length,word_count,has_number,contains_ai,day_posted,month_posted,read_time_min
+Tech conference held online,technology,Rahul,report,positive,27,4,0,0,14,9,1.2
+Scientists discover new planet,technology,Maria,news,neutral,30,4,0,0,27,5,1.2
+Software update improves security,technology,Maria,social,neutral,33,4,0,0,1,12,1.2
+Internet speed improved nationwide,technology,Li,blog,positive,34,4,0,0,13,9,1.2
+College sports day organized,sports,Kumar,news,positive,28,4,0,0,30,3,1.2
+Cloud computing trends in 2025,technology,Sara,blog,positive,30,5,1,0,22,10,1.5
+Swimming competition ends,sports,Arun,report,negative,25,3,0,0,16,11,0.9
+Researchers develop quantum algorithm,technology,Kumar,report,neutral,37,4,0,0,29,11,1.2
+Budget session begins today,technology,Li,press,negative,27,4,0,0,19,8,1.2
+New vaccine research successful,technology,Maria,report,neutral,31,4,0,0,30,2,1.2
+Cyber attack affects banking sector,technology,Maria,social,positive,35,5,0,0,11,9,1.5
+Stadium renovated for world cup,sports,Priya,blog,negative,31,5,0,0,13,10,1.5
+Elections results declared yesterday,politics,Kumar,social,neutral,36,4,0,0,21,10,1.2
+Baseball match postponed due to rain,sports,Rahul,report,neutral,36,6,0,1,19,3,1.8
+Cloud computing trends in 2025,technology,Maria,press,positive,30,5,1,0,26,11,1.5
+Space mission launched,technology,Li,blog,positive,22,3,0,0,6,11,0.9
+Tech conference held online,technology,Arun,press,negative,27,4,0,0,29,11,1.2
+Robotics automation in factories,technology,John,social,neutral,32,4,0,0,15,12,1.2
+Football coach resigns,sports,Kumar,press,positive,22,3,0,0,17,8,0.9
+Badminton star wins gold,sports,John,report,positive,24,4,0,0,7,7,1.2
+Prime minister visits neighboring country,politics,Li,report,neutral,41,5,0,0,20,6,1.5
+Budget session begins today,technology,Sara,press,neutral,27,4,0,0,30,7,1.2
+Cloud computing trends in 2025,technology,Li,news,positive,30,5,1,0,23,4,1.5
+Baseball match postponed due to rain,sports,John,report,positive,36,6,0,1,26,3,1.8
+Baseball match postponed due to rain,sports,Kumar,social,neutral,36,6,0,1,14,12,1.8
+Parliament session delayed,politics,Sara,news,positive,26,3,0,0,30,10,0.9
+Swimming competition ends,sports,Maria,blog,positive,25,3,0,0,29,9,0.9
+Internet speed improved nationwide,technology,Rahul,social,negative,34,4,0,0,21,5,1.2
+New laptop series released,technology,Ali,report,neutral,26,4,0,0,29,3,1.2
+Baseball match postponed due to rain,sports,Ali,news,neutral,36,6,0,1,7,8,1.8
+Prime minister visits neighboring country,politics,Rahul,news,negative,41,5,0,0,10,7,1.5
+Stadium renovated for world cup,sports,Maria,report,negative,31,5,0,0,18,2,1.5
+Baseball match postponed due to rain,sports,Ali,report,negative,36,6,0,1,12,12,1.8
+Football team won the final match,sports,Ali,blog,neutral,33,6,0,0,19,5,1.8
+New laptop series released,technology,Ali,news,positive,26,4,0,0,18,4,1.2
+New laptop series released,technology,Rahul,social,negative,26,4,0,0,10,10,1.2
+President signs new law,politics,Ali,news,negative,23,4,0,0,2,9,1.2
+Cloud computing trends in 2025,technology,John,social,negative,30,5,1,0,20,5,1.5
+Robotics automation in factories,technology,Li,social,neutral,32,4,0,0,22,1,1.2
+Minister discusses trade deal,politics,Priya,blog,positive,29,4,0,0,18,7,1.2
+Football team won the final match,sports,Kumar,blog,neutral,33,6,0,0,18,7,1.8
+Parliament debates climate change bill,politics,Sara,press,negative,38,5,0,0,18,11,1.5
+Badminton star wins gold,sports,Kumar,blog,positive,24,4,0,0,1,1,1.2
+Software update improves security,technology,Arun,social,positive,33,4,0,0,12,5,1.2
+Space mission launched,technology,Sara,blog,neutral,22,3,0,0,23,7,0.9
+Robotics automation in factories,technology,Li,report,positive,32,4,0,0,7,4,1.2
+Prime minister visits neighboring country,politics,Sara,news,neutral,41,5,0,0,9,3,1.5
+Cyber attack affects banking sector,technology,David,press,positive,35,5,0,0,19,6,1.5
+Cyber attack affects banking sector,technology,David,news,negative,35,5,0,0,9,7,1.5
+Baseball match postponed due to rain,sports,Priya,social,negative,36,6,0,1,17,12,1.8
+Cyber attack affects banking sector,technology,David,social,positive,35,5,0,0,29,5,1.5
+Internet speed improved nationwide,technology,Maria,news,positive,34,4,0,0,25,7,1.2
+Software update improves security,technology,John,social,positive,33,4,0,0,4,3,1.2
+Football team won the final match,sports,Rahul,social,neutral,33,6,0,0,24,7,1.8
+Governor announces welfare scheme,politics,Kumar,press,neutral,33,4,0,0,1,10,1.2
+Software update improves security,technology,John,social,positive,33,4,0,0,30,11,1.2
+Researchers develop quantum algorithm,technology,Kumar,social,positive,37,4,0,0,30,10,1.2
+Scientists discover new planet,technology,Sara,press,positive,30,4,0,0,21,11,1.2
+Tech conference held online,technology,John,press,positive,27,4,0,0,24,10,1.2
+Elections results declared yesterday,politics,Rahul,social,positive,36,4,0,0,5,4,1.2
+Swimming competition ends,sports,Sara,blog,negative,25,3,0,0,27,3,0.9
+Baseball match postponed due to rain,sports,Rahul,press,positive,36,6,0,1,26,4,1.8
+Stadium renovated for world cup,sports,Kumar,press,positive,31,5,0,0,25,11,1.5
+New laptop series released,technology,Kumar,press,positive,26,4,0,0,3,9,1.2
+Cloud computing trends in 2025,technology,Arun,press,positive,30,5,1,0,21,4,1.5
+New laptop series released,technology,Priya,news,negative,26,4,0,0,18,3,1.2
+Volleyball team celebrates victory,sports,Kumar,news,positive,34,4,0,0,15,11,1.2
+Scientists discover new planet,technology,Rahul,blog,neutral,30,4,0,0,1,12,1.2
+Baseball match postponed due to rain,sports,Kumar,press,positive,36,6,0,1,22,10,1.8
+Researchers develop quantum algorithm,technology,Maria,news,negative,37,4,0,0,28,4,1.2
+Governor announces welfare scheme,politics,Rahul,news,neutral,33,4,0,0,5,1,1.2
+Prime minister visits neighboring country,politics,Arun,social,negative,41,5,0,0,19,1,1.5
+College sports day organized,sports,David,report,negative,28,4,0,0,5,10,1.2
+Robotics automation in factories,technology,Ali,report,positive,32,4,0,0,28,7,1.2
+Volleyball team celebrates victory,sports,Sara,report,negative,34,4,0,0,5,1,1.2
+Space mission launched,technology,Maria,news,negative,22,3,0,0,24,8,0.9
+Space mission launched,technology,David,report,negative,22,3,0,0,6,9,0.9
+Internet speed improved nationwide,technology,Li,news,neutral,34,4,0,0,11,2,1.2
+Parliament debates climate change bill,politics,Li,social,positive,38,5,0,0,17,10,1.5
+Space mission launched,technology,Sara,press,negative,22,3,0,0,17,1,0.9
+Governor announces welfare scheme,politics,Kumar,blog,positive,33,4,0,0,8,1,1.2
+College sports day organized,sports,Sara,news,positive,28,4,0,0,28,4,1.2
+Swimming competition ends,sports,Priya,social,positive,25,3,0,0,28,12,0.9
+Basketball league starts next week,sports,Maria,press,positive,34,5,0,0,30,12,1.5
+Tech conference held online,technology,David,news,negative,27,4,0,0,13,4,1.2
+Cloud computing trends in 2025,technology,Priya,news,positive,30,5,1,0,9,12,1.5
+New vaccine research successful,technology,Rahul,blog,positive,31,4,0,0,24,4,1.2
+Basketball league starts next week,sports,Arun,report,negative,34,5,0,0,13,7,1.5
+Researchers develop quantum algorithm,technology,David,report,negative,37,4,0,0,23,2,1.2
+New laptop series released,technology,Priya,news,negative,26,4,0,0,9,6,1.2
+Elections results declared yesterday,politics,Maria,report,negative,36,4,0,0,1,6,1.2
+Badminton star wins gold,sports,Sara,social,positive,24,4,0,0,22,8,1.2
+Budget session begins today,technology,Ali,news,positive,27,4,0,0,25,1,1.2
+Football coach resigns,sports,Ali,blog,negative,22,3,0,0,3,4,0.9
+Football team won the final match,sports,Maria,blog,negative,33,6,0,0,26,9,1.8
+Parliament session delayed,politics,Maria,social,negative,26,3,0,0,29,8,0.9
+Parliament session delayed,politics,Sara,blog,positive,26,3,0,0,20,3,0.9
+Badminton star wins gold,sports,Ali,news,negative,24,4,0,0,28,10,1.2
+Space mission launched,technology,Priya,news,positive,22,3,0,0,15,12,0.9
+Football coach resigns,sports,David,press,positive,22,3,0,0,11,4,0.9
+Basketball league starts next week,sports,David,social,negative,34,5,0,0,14,12,1.5
+Elections results declared yesterday,politics,Maria,press,positive,36,4,0,0,1,9,1.2
+Software update improves security,technology,Arun,press,positive,33,4,0,0,4,6,1.2
+Stadium renovated for world cup,sports,Li,news,negative,31,5,0,0,8,11,1.5
+Software update improves security,technology,Priya,report,positive,33,4,0,0,16,11,1.2
+Football coach resigns,sports,Rahul,press,negative,22,3,0,0,2,9,0.9
+Parliament session delayed,politics,Li,press,negative,26,3,0,0,3,2,0.9
+President signs new law,politics,Maria,news,negative,23,4,0,0,11,2,1.2
+New laptop series released,technology,Sara,press,neutral,26,4,0,0,22,12,1.2
+College sports day organized,sports,Sara,news,neutral,28,4,0,0,29,8,1.2
+Scientists discover new planet,technology,Li,blog,negative,30,4,0,0,15,7,1.2
+Researchers develop quantum algorithm,technology,John,news,positive,37,4,0,0,26,5,1.2
+Tech conference held online,technology,Sara,press,positive,27,4,0,0,4,8,1.2
+Cyber attack affects banking sector,technology,Rahul,blog,positive,35,5,0,0,26,5,1.5
+Prime minister visits neighboring country,politics,David,social,positive,41,5,0,0,4,10,1.5
+Badminton star wins gold,sports,Kumar,report,positive,24,4,0,0,28,1,1.2
+Football team won the final match,sports,Li,blog,negative,33,6,0,0,3,11,1.8
+Swimming competition ends,sports,Priya,press,neutral,25,3,0,0,22,7,0.9
+Government announced new education policy today,politics,Ali,press,negative,47,6,0,0,10,4,1.8
+Tech conference held online,technology,Kumar,report,neutral,27,4,0,0,14,12,1.2
